@@ -23,4 +23,4 @@ Nothing too serious here — just code, experiments, and things I'm learning.
 
 ---
 
-**Currently learning • Building • Improving**
+**Currently Learning • Building • Improving**
